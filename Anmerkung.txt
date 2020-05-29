@@ -1,0 +1,3 @@
+Der Haupt-Patch heißt "Picture2Sound".
+Eine kurze Anleitung steht unten rechts im Präsentationsfenster.
+Für weitere Informationen siehe Dokumentation.
